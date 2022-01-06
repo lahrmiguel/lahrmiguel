@@ -1,7 +1,6 @@
-### Hello friend! How have you been?😄
+### Hello friend! How have you been?😃
 
-I'm Miguel Arcanjo, student Full-stack Developer 
-<img height="180em" src="https://i.imgur.com/dE9nEWu.gif"/>
+I'm Miguel Arcanjo, student Full-stack Developer  
 
 <div align="center">
   <a href="https://github.com/lahrmiguel">
