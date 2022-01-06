@@ -1,5 +1,5 @@
-    name: snake
-    runs-on: ubuntu-latest
+name: Jobs to update datas
+    runs-on:ubuntu-latest
     steps:
       # Summary Cards
       - uses: actions/checkout@v2
