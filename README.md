@@ -1,6 +1,6 @@
 ### Hello friend! How have you been?😃
 
-I'm Miguel Arcanjo, student .NET Developer  
+I'm Miguel Arcanjo, student Full-stack Developer  
 
 <div align="center">
   <a href="https://github.com/lahrmiguel">
