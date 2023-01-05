@@ -1,4 +1,4 @@
-### Hello friend! How have you been?😃
+### Hello friend! How have you been? 😃
 
 I'm Miguel Arcanjo, student Full-stack Developer  
 
