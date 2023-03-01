@@ -7,7 +7,7 @@ I'm Miguel Arcanjo, student Full-stack Developer
  
 </div>
  <div style="display: inline_block"><br>
-<img height"180em" src="https://github-readme-stats.vercel.app/api?username=lahrmiguel&show_icons=true&theme=dracula)"/>
+<img height"180em" src="https://github-readme-stats.vercel.app/api?username=lahrmiguel&show_icons=true&theme=dark)"/>
 
    <img align="center" alt="Miguel-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="Miguel-Html" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
